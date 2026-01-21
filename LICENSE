@@ -1,0 +1,4 @@
+WRONG LICENSE
+
+This is an incorrect license file that should trigger drift detection.
+Copyright WRONG
